@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - holer
+  - Hole
+  - CanHole
+  - Hook
+  - wall
+  - floor
+  - bridge
+  - Slot
+  - CraftSystem
+  - ResultSlot
+  - DraggingItem
+  - Tooltip
+  - Slots
+  - MainInventory
+  - Canvas
+  - Item
+  - Panel
+  - ItemIcon
+  - EquipmentSystem
+  - EventSystem
+  - Ereki
+  - Goal
+  - checkPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Bullet
+  - Object
+  - EnemyBullet
+  - Enemy
+  - Wall
+  - IgnoringWall
+  - IgnoringFloor
+  - Floor
+  - Bridge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 3665273607
+    locked: 0
